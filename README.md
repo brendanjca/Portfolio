@@ -8,7 +8,7 @@
   * [Investigating Customer Retention](#investigating-customer-retention)
   * [Testing a Trading Strategy on a Major US Index](#testing-a-trading-strategy-on-a-major-us-index)
   * [Forecasting Future Sales in Walmart Stores](#forecasting-future-sales-in-walmart-stores)
-  * [Predicting Days On the Market for Condos in Richmond, BC](#predicting-days-on-the-market-for-condos-in-richmond--bc)
+  * [Predicting Days On the Market for Condos in Richmond BC](#predicting-days-on-the-market-for-condos-in-richmond-bc)
 
 ## About
 
