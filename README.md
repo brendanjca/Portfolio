@@ -14,7 +14,7 @@ The tech that I learned at Juno: **Sheets/Excel**, **SQL**, **Tableau**, **Pytho
 
 Below is a list of projects that I completed while I was attending Juno.
 
-### Customer Retention Project
+### Investigating Customer Retention
 The objective of this project was to investigate retention for players of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
 
 The main things we wanted to figure out where determining the **30-day rolling retention rate**, the age of the players, the location of the players, and individual spending in the app.
@@ -32,6 +32,21 @@ Tech used: Sheets (cleaning, feature engineering and backtesting the strategy), 
 
 [Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1R3bi2yO4T7jkQPyNRhOs1266X0roEEDxPwvCgRSsFyo/edit?usp=sharing).
 
-[Click here to view the Tableau viz of the results](https://public.tableau.com/app/profile/brendanjca/viz/Project2_16364032426860/Story1)
+[Click here to view the Tableau viz of the results](https://public.tableau.com/app/profile/brendanjca/viz/Project2_16364032426860/Story1).
 
-#
+### Forecasting Future Sales in Walmart Stores
+Using [this dataset](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction) found on Kaggle, I ran a linear regression model to try to predict future sales. The model was able to achieve a 95% accuracy rate.
+
+Tech used: Python (feature engineering, pre-processing, modelling and visualization).
+
+[Click here to view the Jupyter Notebook for this project]()
+
+### Predicting Days-On-the-Market for Condos in Richmond, BC
+Using a proprietary dataset containing all the condo listings that have been sold in Richmond, BC since 2008, I analyzed trends in the condo market and tried to develop a model that is able to predict how long a given condo would take to sell. This information would be useful for both buyers and sellers to determine how liquid and in-demand a listing is.
+
+In the end I was able to develop a random forest classification model that was able to predict DOM within 2.5 weeks.
+
+Tech used: Tableau (visualization, basic analysis of trends), Python (cleaning, pre-processing, modelling).
+
+[Click here to view the Tableau viz](https://public.tableau.com/app/profile/brendanjca/viz/TableauRichmondCondo/Story1?publish=yes)
+[Click here to view the Jupyter notebook for this project]()
