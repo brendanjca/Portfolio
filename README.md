@@ -33,7 +33,7 @@ Tech used: **SQL** (for querying databases and performing calculations), **Sheet
 
 [Click here to view the project](https://github.com/brendanjca/Portfolio/tree/main/Customer%20Retention%20Project).
 
-### Testing a Trading Strategy on the S&P500
+### Testing a Trading Strategy on a Major US Index
 I tested a trading strategy found on SeekingAlpha.com to see how it performed compared to buy-and-hold, and then I tried to tweak it to see if I could make any further improvements.
 
 By adding a simple regime filter (only taking buy signals when price closed above the 200 exponential moving average), I was not able to improve the overall return, but I was able to significantly improve the risk-adjusted returns by lowering drawdown and decreasing the net exposure.
