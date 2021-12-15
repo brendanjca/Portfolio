@@ -50,4 +50,4 @@ Tech used: Tableau (visualization, basic analysis of trends), Python (cleaning, 
 
 [Click here to view the Tableau viz](https://public.tableau.com/app/profile/brendanjca/viz/TableauRichmondCondo/Story1?publish=yes)
 
-[Click here to view the Jupyter notebook for this project]()
+[Click here to view the Jupyter notebook for this project](https://github.com/brendanjca/Portfolio/blob/main/Richmond%20Condo%20Project.ipynb)
