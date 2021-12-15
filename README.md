@@ -1,5 +1,15 @@
 # Portfolio
 
+## Table of Contents
+
+- [About](#about)
+- [My Background - How I Became a Data Analyst](#my-background---how-i-became-a-data-analyst)
+- [Juno Projects](#juno-projects)
+  * [Investigating Customer Retention](#investigating-customer-retention)
+  * [Testing a Trading Strategy on the S&P500](#testing-a-trading-strategy-on-the-s&p500)
+  * [Forecasting Future Sales in Walmart Stores](#forecasting-future-sales-in-walmart-stores)
+  * [Predicting Days-On-the-Market for Condos in Richmond, BC](#predicting-days-on-the-market-for-condos-in-richmond--bc)
+
 ## About
 
 This is a repository that I've created to track my progress in data analysis/AI/data science-related topics. The main purposes are for self-motivation, open-source material for others, a portfolio, and a to-do list.
@@ -41,7 +51,7 @@ Tech used: Python (feature engineering, pre-processing, modelling and visualizat
 
 [Click here to view the Jupyter Notebook for this project](https://github.com/brendanjca/Portfolio/blob/main/Walmart%20Sales%20Forecast%20Project/Walmart%20Data%20Project.ipynb)
 
-### Predicting Days-On-the-Market for Condos in Richmond, BC
+### Predicting Days On the Market for Condos in Richmond, BC
 Using a proprietary dataset containing all the condo listings that have been sold in Richmond, BC since 2008, I analyzed trends in the condo market and tried to develop a model that is able to predict how long a given condo would take to sell. This information would be useful for both buyers and sellers to determine how liquid and in-demand a listing is.
 
 In the end I was able to develop a random forest classification model that was able to predict DOM within 2.59 weeks.
