@@ -35,7 +35,7 @@ Tech used: Sheets (cleaning, feature engineering and backtesting the strategy), 
 [Click here to view the Tableau viz of the results](https://public.tableau.com/app/profile/brendanjca/viz/Project2_16364032426860/Story1).
 
 ### Forecasting Future Sales in Walmart Stores
-Using [this dataset](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction) found on Kaggle, I ran a linear regression model to try to predict future sales. The model was able to achieve a 95% accuracy rate.
+Using [this dataset](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction) found on Kaggle, I ran a linear regression model to try to predict future sales. The model was able to achieve a +95% accuracy rate.
 
 Tech used: Python (feature engineering, pre-processing, modelling and visualization).
 
@@ -44,7 +44,7 @@ Tech used: Python (feature engineering, pre-processing, modelling and visualizat
 ### Predicting Days-On-the-Market for Condos in Richmond, BC
 Using a proprietary dataset containing all the condo listings that have been sold in Richmond, BC since 2008, I analyzed trends in the condo market and tried to develop a model that is able to predict how long a given condo would take to sell. This information would be useful for both buyers and sellers to determine how liquid and in-demand a listing is.
 
-In the end I was able to develop a random forest classification model that was able to predict DOM within 2.5 weeks.
+In the end I was able to develop a random forest classification model that was able to predict DOM within 2.59 weeks.
 
 Tech used: Tableau (visualization, basic analysis of trends), Python (cleaning, pre-processing, modelling).
 
