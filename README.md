@@ -31,7 +31,7 @@ The main things we wanted to figure out where determining the **30-day rolling r
 
 Tech used: **SQL** (for querying databases and performing calculations), **Sheets** (for visualizations).
 
-[Click here to view the project](https://github.com/brendanjca/Portfolio/tree/main/Customer%20Retention%20Project).
+[Click here to view the project](https://github.com/brendanjca/Portfolio/tree/main/Customer%20Retention%20Project)
 
 ### Testing a Trading Strategy on a Major US Index
 I tested a trading strategy found on SeekingAlpha.com to see how it performed compared to buy-and-hold, and then I tried to tweak it to see if I could make any further improvements.
@@ -40,9 +40,9 @@ By adding a simple regime filter (only taking buy signals when price closed abov
 
 Tech used: Sheets (cleaning, feature engineering and backtesting the strategy), Tableau (visualizing results).
 
-[Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1R3bi2yO4T7jkQPyNRhOs1266X0roEEDxPwvCgRSsFyo/edit?usp=sharing).
+[Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1R3bi2yO4T7jkQPyNRhOs1266X0roEEDxPwvCgRSsFyo/edit?usp=sharing)
 
-[Click here to view the Tableau viz of the results](https://public.tableau.com/app/profile/brendanjca/viz/Project2_16364032426860/Story1).
+[Click here to view the Tableau viz of the results](https://public.tableau.com/app/profile/brendanjca/viz/Project2_16364032426860/Story1)
 
 ### Forecasting Future Sales in Walmart Stores
 Using [this dataset](https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction) found on Kaggle, I ran a linear regression model to try to predict future sales. The model was able to achieve a +95% accuracy rate.
