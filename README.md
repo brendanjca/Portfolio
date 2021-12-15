@@ -49,4 +49,5 @@ In the end I was able to develop a random forest classification model that was a
 Tech used: Tableau (visualization, basic analysis of trends), Python (cleaning, pre-processing, modelling).
 
 [Click here to view the Tableau viz](https://public.tableau.com/app/profile/brendanjca/viz/TableauRichmondCondo/Story1?publish=yes)
+
 [Click here to view the Jupyter notebook for this project]()
