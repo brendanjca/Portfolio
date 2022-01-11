@@ -14,6 +14,8 @@
 
 This is a repository that I've created to track my progress in data analysis/AI/data science-related topics. The main purposes are for self-motivation, open-source material for others, a portfolio, and a to-do list.
 
+Check out my Tableau Public [here](https://public.tableau.com/app/profile/brendanjca#!/?newProfile=&activeTab=0).
+
 ## My Background - How I Became a Data Analyst
 
 In September 2021, I enrolled in the Juno College Data Analysis Bootcamp. Throughout my time there, I have gained a solid understanding of the **ETL** (Extract, Load, Transform) process and multiple industry-standard technologies.
