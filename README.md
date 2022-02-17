@@ -29,7 +29,7 @@ Below is a list of projects that I completed while I was attending Juno.
 ### Investigating Customer Retention
 The objective of this project was to investigate retention for players of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
 
-The main things we wanted to figure out where determining the **30-day rolling retention rate**, the age of the players, the location of the players, and individual spending in the app.
+The main things we wanted to figure out were determining the **30-day rolling retention rate**, the age of the players, the location of the players, and individual spending in the app.
 
 Tech used: **SQL** (for querying databases and performing calculations), **Sheets** (for visualizations).
 
